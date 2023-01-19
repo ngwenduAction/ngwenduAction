@@ -7,7 +7,7 @@ Frontend Developer
 I am a Software Developer
 
 * 🌍  I'm based in Johannesburg
-* ✉️  You can contact me at [gambungwendu@gmail.com](mailto:gambungwendu@gmail.com)
+* ✉️  You can contact me at [ngwendu.action@gmail.com](mailto:ngwendu.action@gmail.com)
 * 🚀  I'm currently working on [Maneno Website](http://maneno.co.za)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
