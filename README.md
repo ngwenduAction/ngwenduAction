@@ -40,22 +40,7 @@ I am a Software Developer
 
 <p align="left"> <a href="https://www.github.com/ngwenduAction" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ngwendu.action" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ngwenduaction" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ngwendu_Action" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ngwenduAction"><img src="https://github-readme-stats.vercel.app/api?username=ngwenduAction&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="ngwenduAction's GitHub stats" /></a>
-
-<a href="http://www.github.com/ngwenduAction"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngwenduAction&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/ngwenduAction"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngwenduAction&bg_color=000000&color=facc15&line=ef4444&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ngwenduAction" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngwenduAction&langs_count=10&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ngwenduAction/https://github.com/ngwenduAction/resume10" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ngwenduAction&repo=https://github.com/ngwenduAction/resume10&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ngwenduAction"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
