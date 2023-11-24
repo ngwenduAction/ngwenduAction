@@ -47,4 +47,10 @@ As a motivated and entry-level software developer, I bring a solid foundation in
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center">
+  <a href="https://github.com/ngwenduAction/resume10" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ngwenduAction&repo=resume10&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
+
 
