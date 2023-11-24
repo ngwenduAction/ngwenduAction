@@ -1,15 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ngwendu Gambu
-=====================================================================================================================================
+[![Header](https://github.com/ngwenduAction/GitHub_banner/blob/main/GitHub%20Banner.png?raw=true "Header")](https://github.com/ngwenduAction)
 
-Frontend Developer
-------------------
-
-I am a Software Developer
+## 👋 I am a Software Developer
+As a motivated and entry-level software developer, I bring a solid foundation in React framework development and a passion for continuous learning. Eager to contribute to dynamic projects, I am seeking a position that fosters professional growth and hands-on experience. My adaptability and commitment to staying abreast of industry trends make me well-suited for a role where I can learn on the job and actively contribute to the success of the team. Ready to bring enthusiasm, fresh perspectives, and a dedication to mastering new skills to a collaborative development environment.
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [ngwendu.action@gmail.com](mailto:ngwendu.action@gmail.com)
-* 🚀  I'm currently working on [Maneno Website](http://maneno.co.za)
-* 🧠  I'm learning React
+* 🚀  I'm currently honing my skills
 * 🤝  I'm open to collaborating on Projects
 * ⚡  The Scriptures CANNOT be broken...
 
@@ -18,6 +14,9 @@ I am a Software Developer
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
