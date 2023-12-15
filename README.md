@@ -1,7 +1,7 @@
 [![Header](https://github.com/ngwenduAction/GitHub_banner/blob/main/GitHub%20Banner%20(1).png?raw=true "Header")](https://github.com/ngwenduAction)
 
 ## 👋 I am a Software Developer
-As a motivated and entry-level software developer, I bring a solid foundation in React framework development and a passion for continuous learning. Eager to contribute to dynamic projects, I am seeking a position that fosters professional growth and hands-on experience. My adaptability and commitment to staying abreast of industry trends make me well-suited for a role where I can learn on the job and actively contribute to the success of the team. Ready to bring enthusiasm, fresh perspectives, and a dedication to mastering new skills to a collaborative development environment.
+As a motivated junior developer, I bring a solid foundation in React framework development and a passion for continuous learning. Eager to contribute to dynamic projects, I am seeking a position that fosters professional growth and hands-on experience. My adaptability and commitment to staying abreast of industry trends make me well-suited for a role where I can learn on the job and actively contribute to the success of the team. Ready to bring enthusiasm, fresh perspectives, and a dedication to mastering new skills to a collaborative development environment.
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [ngwendu.action@gmail.com](mailto:ngwendu.action@gmail.com)
