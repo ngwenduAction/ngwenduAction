@@ -1,4 +1,4 @@
-[![Header]https://github.com/ngwenduAction/GitHub_banner/blob/main/GitHub%20Banner%20(1).png?raw=true "Header")](https://github.com/ngwenduAction)
+[![Header](https://github.com/ngwenduAction/GitHub_banner/blob/main/Action_X%20(1).png?raw=true "Header")](https://github.com/ngwenduAction)
 
 # Ngwendu Gambu
 
